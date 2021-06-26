@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "description": "Adds smelting raw ore blocks into ingot blocks",
+        "pack_format": 7
+    }
+}
